@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:content="com.rui.learnandroid.MainActivity">
+    <item
+        android:id="@+id/send"
+        android:title="@string/send"/>
+    <item
+        android:id="@+id/jump"
+        android:title="@string/jump" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit" />
+</menu>

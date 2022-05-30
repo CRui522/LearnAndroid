@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Learn Android</string>
+    <string name="send">发送短信</string>
+    <string name="jump">跳转新界面</string>
+    <string name="exit">退出</string>
+    <string name="phone">收件人号码</string>
+    <string name="content">发送内容</string>
+    <string name="begin">点击进入</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">主页</string>
+    <string name="title_news">新闻</string>
+    <string name="title_hotspot">热点</string>
+    <string name="title_user">我的</string>
+    <string name="login">点击登陆</string>
+</resources>

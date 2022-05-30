@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.195" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.195" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.195" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/drawable/radius_bg.xml" value="0.179" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/activity_login.xml" value="0.24014336917562723" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/fragment_home.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/fragment_hotspot.xml" value="0.2484375" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/fragment_login.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/fragment_news.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/fragment_notifications.xml" value="0.12132725430597771" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/fragment_user.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/head_item.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/head_login.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/login_item.xml" value="0.2484375" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/login_view.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/news_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/register_item.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/rv_items.xml" value="0.2484076433121019" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/send_input.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/text_input.xml" value="0.2484375" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/layout/user_item.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/menu/item_menu.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.195" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1215" />
+        <entry key="..\:/AndroidProjects/LearnAndroid/app/src/main/res/xml/head_xml.xml" value="0.24947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
